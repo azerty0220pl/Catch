@@ -10,4 +10,5 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: conic-gradient(#FF0000 60deg, #888800 60deg 120deg, #00FF00 120deg 180deg, #008888 180deg 240deg, #0000FF 240deg 300deg, #880088 300deg);
 }
