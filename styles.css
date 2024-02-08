@@ -10,6 +10,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
+}
+
+img {
+  max-width: 75vw;
+  max-height: 75vh;
 }
 
 div::before {
