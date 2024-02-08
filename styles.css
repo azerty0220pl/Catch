@@ -21,6 +21,7 @@ div::before {
   height: 200%;
   background: conic-gradient(#66FF00 45deg, #1974D2 45deg 90deg, #08E8DE 90deg 135deg, #FFF000 135deg 180deg, #FFAA1D 180deg 225deg, #FF007F 225deg 270deg, #FF0000 270deg 315deg, #800080 315deg);
   animation: spin 2s linear infinite;
+  z-index: -1;
 }
 
 @keyframes spin {
